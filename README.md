@@ -1,0 +1,1 @@
+This repository contains various C programs that I have developed and tested as part of my practical lab exercises. The programs cover fundamental concepts of C programming such as Operators , variables, loops, conditional statements, functions, arrays , Pointers and  among others.
