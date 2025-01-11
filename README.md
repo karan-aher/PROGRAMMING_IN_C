@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>C Programming Lab Manual Repository 💻</h1>
+        <h1>Mastering C Programming: Lab & Practice Files 📂</h1>
     </header>
     <main>
         <section>
